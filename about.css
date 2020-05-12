@@ -1,0 +1,20 @@
+body{
+    background-image: url("doctor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#container{
+    text-align: center;
+}
+
+h3, h4{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+*{
+    font-family: sans-serif;
+    color: black;
+}

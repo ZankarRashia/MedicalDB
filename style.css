@@ -1,0 +1,22 @@
+body{
+    background-image: url("doctor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#line{
+   font-size: 30px;
+    padding-top: 50px;
+    padding-right: 250px;
+   
+}
+
+*{
+    font-family: sans-serif;
+    color: black;
+}
+
+input[type = 'button']{
+    transform: scale(1.5);
+}
